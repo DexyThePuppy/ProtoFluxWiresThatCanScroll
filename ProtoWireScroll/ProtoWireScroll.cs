@@ -13,7 +13,7 @@ public class ProtoWireScroll : ResoniteMod {
 	public override string Name => "ProtoWireScroll";
 	public override string Author => "Dexy, NepuShiro";
 	public override string Version => "1.1.0";
-	public override string Link => "https://github.com/DexyThePuppy/ProtoWireScroll";
+	public override string Link => "https://github.com/DexyThePuppy/ProtoFluxWiresThatCanScroll";
 
 	// Configuration
 	public static ModConfiguration Config;
