@@ -10,9 +10,10 @@ using Elements.Assets;
 namespace ProtoWireScroll;
 //More info on creating mods can be found https://github.com/resonite-modding-group/ResoniteModLoader/wiki/Creating-Mods
 public class ProtoWireScroll : ResoniteMod {
+	internal const string VERSION_CONSTANT = "1.1.0";
 	public override string Name => "ProtoWireScroll";
 	public override string Author => "Dexy, NepuShiro";
-	public override string Version => "1.1.0";
+	public override string Version => VERSION_CONSTANT;
 	public override string Link => "https://github.com/DexyThePuppy/ProtoWireScroll";
 
 	// Configuration
